@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarGas, S.A Cameroun</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_features">StarGas, S.A Cameroun</string>
+    <string name="title_activity_activity_order">StarGas, S.A Cameroun</string>
+    <string name="title_activity_activity_login">StarGas, S.A Cameroun</string>
+    <string name="title_activity_order">StarGas, S.A Cameroun</string>
+    <string name="title_activity_login">StarGas, S.A Cameroun</string>
+    <string name="title_activity_registration">StarGas, S.A Cameroun</string>
+    <string name="title_activity_customer_orders">StarGas, S.A Cameroun</string>
+    <string name="title_activity_customer_profile">StarGas, S.A Cameroun</string>
+    <string name="title_activity_star_gas_splash_view">StarGas, S.A Cameroun</string>
+</resources>
